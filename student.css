@@ -1,0 +1,30 @@
+student { display: block;
+    margin-top: 10px; color: Navy;
+    }
+    
+    name {
+    display: block; margin-left: 20px; font-size: 14pt; color: Red;
+    }
+    
+    college   { display: block;
+    margin-left: 20px; font-size: 12pt; color: Maroon;
+    }
+    
+    branch   { display: block;
+    margin-left: 20px; font-size: 12pt; color: Purple;
+    }
+    
+    year {
+    display: block; margin-left: 20px;
+     
+    font-size: 14pt; color: Black;
+    }
+    
+    e-mail {
+    display: block; margin-left: 20px; font-size: 12pt; color: Blue;
+    }
+    
+    rollno{
+    display: block; margin-left: 20px; font-size: 12pt; color: maroon;
+    }
+    

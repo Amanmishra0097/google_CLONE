@@ -1,0 +1,91 @@
+<?xml-stylesheet type="text/css" href="student.css"?>
+<!DOCTYPE HTML>
+<html>
+<head>
+<h1> STUDENTS INFORMATION</h1>
+</head>
+<students>
+<student>	
+<name>NAME : Sachin yadav</name>
+<college>COLLEGE : GLA</college>
+<branch>BRANCH : Computer Science and Engineering</branch>
+<rollno>ROLL No.: 2284200182</rollno>
+<year>YEAR : 2023</year>
+<e-mail>E-Mail : sachin13@gmail.com</e-mail>
+</student>
+<student>
+ 
+<name>NAME :Ashish</name>
+<college>COLLEGE : GLA</college>
+<branch>BRANCH : Computer Science and Engineering</branch>
+<rollno>ROLL No.: 228420012</rollno>
+<year>YEAR : 2023</year>
+<e-mail>E-Mail : Ashish@gmail.com</e-mail>
+</student>
+<student>
+<name>NAME : sakshi Varshney</name>
+<college>COLLEGE : GLA</college>
+<branch>BRANCH : Computer Science and Engineering</branch>
+<rollno>ROLL No.: 22842000183</rollno>
+<year>YEAR : 2023</year>
+<e-mail>E-Mail : sakshi@gmail.com</e-mail>
+</student>
+<student>
+<name>NAME : Sanchit</name>
+<college>COLLEGE : GLA</college>
+<branch>BRANCH : Computer Science and Engineering</branch>
+<rollno>ROLL No.: 22842000978</rollno>
+<year>YEAR : 2023</year>
+<e-mail>E-Mail : siyaa@gmail.com</e-mail>
+</student>
+<student>
+<name>NAME : Manisha</name>
+<college>COLLEGE : GLA</college>
+<branch>BRANCH : Computer Science and Engineering</branch>
+<rollno>ROLL No.: 2284200116</rollno>
+<year>YEAR : 2022</year>
+<e-mail>E-Mail : manisha@gmail.com</e-mail>
+</student>
+<student>
+<name>NAME : Vandana Chahar</name>
+<college>COLLEGE : GLA</college>
+<branch>BRANCH : Computer Science and Engineering</branch>
+<rollno>ROLL No.: 2284200193</rollno>
+ 
+<year>YEAR : 2023</year>
+<e-mail>E-Mail : vandna@gmail.com</e-mail>
+<student>
+<name>NAME :Amsan mishra</name>
+<college>COLLEGE : GLA</college>
+<branch>BRANCH : Computer Science and Engineering</branch>
+<rollno>ROLL No.: 2284200023</rollno>
+<year>YEAR : 2023</year>
+<e-mail>E-Mail : aman@gmail.com</e-mail>
+</student>
+<student>
+<name>NAME : prasant</name>
+<college>COLLEGE : GLA</college>
+<branch>BRANCH : Computer Science and Engineering</branch>
+<rollno>ROLL No.: 2284200172</rollno>
+<year>YEAR : 2023</year>
+<e-mail>E-Mail : prasant@gmail.com</e-mail>
+</student>
+<student>
+<name>NAME :Ritik</name>
+<college>COLLEGE : GLA</college>
+<branch>BRANCH : Computer Science and Engineering</branch>
+<rollno>ROLL No.: 218420007</rollno>
+<year>YEAR : 2023</year>
+<e-mail>E-Mail : Ritik@gmail.com</e-mail>
+</student>
+<student>
+<name>NAME : Akash</name>
+<college>COLLEGE : GLA</college>
+<branch>BRANCH : Computer Science and Engineering</branch>
+<rollno>ROLL No.: 2284200046</rollno>
+<year>YEAR : 2023</year>
+<e-mail>E-Mail : Akash@gmail.com</e-mail>
+</student>
+ 
+</students>
+</html>

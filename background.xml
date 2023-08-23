@@ -1,0 +1,33 @@
+!DOCTYPE html>
+<html>
+<head>
+<script>
+function red() {
+document.body.style.backgroundColor = "red";
+}
+function green() {
+document.body.style.backgroundColor = "green";
+}
+function blue() {
+document.body.style.backgroundColor = "blue";
+}
+</script>
+</head>
+<body>
+<center>
+<font size="10px">Click any button to change the Background color</font>
+<table>
+<td><button onclick="red();" style="cursor: pointer" ;</td>
+<strong>Red</strong>
+</button>
+<td>
+<button onclick="green();" style="cursor: pointer" ;</td>
+<strong>Green</strong></button>
+</button>
+<button onclick="blue();" style="cursor: pointer" ;>
+strong>Blue</strong>
+<button>
+</table>
+</center>
+</body>
+</html
